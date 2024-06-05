@@ -1,6 +1,6 @@
 ## Desafio Java Básico ☕
 
-Olá, essa é uma simple aplicação em java utilizando a classe Scanner da biblioteca do Java.
+Olá, essa é uma simples aplicação em java utilizando a classe Scanner da biblioteca do Java.
 
 ## Ferramentas
 
