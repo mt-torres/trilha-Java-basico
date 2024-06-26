@@ -1,6 +1,6 @@
 ## Desafio Java Básico / Banco Digital ☕
 
-icionei ao projeto, na classe Banco, métodos que incluem as contas criadas e imprimem a lista de contas para cada usuário.
+Aicionei ao projeto, na classe Banco, métodos que incluem as contas criadas e imprimem a lista de contas para cada usuário.
 
 ## Ferramentas
 
