@@ -1,7 +1,8 @@
 ## Desafio Java Básico / Diagrama Iphone ☕
 
-Aicionei ao projeto, na classe Banco, métodos que incluem as contas criadas e imprimem a lista de contas para cada usuário.
+Diagrama de classes baseado no iphone, são 3 classes interface `ReprodutorMusical`, `AparelhoTelefonico` e `NavegadorInternet`. Elas são implentadas pela classe `Iphone`
 
+# Modelo diagrama de classes #
 ```mermaid
 classDiagram
     class ReprodutorMusical
@@ -33,4 +34,4 @@ classDiagram
 ## Ferramentas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
